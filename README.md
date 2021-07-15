@@ -8,4 +8,4 @@ Front End
 Review Page
 ![Screen Shot 2021-07-15 at 14 52 31](https://user-images.githubusercontent.com/57307283/125750836-9f3763ed-12d2-4122-ad08-2a87cc9a2776.png)
 
-Basicly it can do CRUD function.
+Basically it can do CRUD function.
